@@ -29,7 +29,7 @@ pyOpenSSL==19.0.0
 python-decouple==3.1
 pytz==2019.3
 requests==2.22.0
-rsa==4.0
+rsa==4.1
 six==1.13.0
 soupsieve==1.9.4
 sqlparse==0.3.0
